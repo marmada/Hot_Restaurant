@@ -2,8 +2,8 @@
     HTML - different pages
 - JS - constructor functions to create new users
 - set up node.js
-- setp API end with the objects
+- setup API end with the objects
 - Data base in the back end to store reservation info / user information
 - Set up Heroku site back end
--
--
+- 
+-Team name: kitchencoders
