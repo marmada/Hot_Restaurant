@@ -1,0 +1,24 @@
+{
+  "name": "Hot_Restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant Reservation System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmada/Hot_Restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marmada/Hot_Restaurant/issues"
+  },
+  "homepage": "https://github.com/marmada/Hot_Restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
