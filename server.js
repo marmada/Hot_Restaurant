@@ -23,6 +23,14 @@ app.get("/", function(req, res) {
 });
 
 
+var reservation = [
+    {
+      routeName: "reserve",
+      name: "Yoda",
+      phone: "",
+      email:"",
+      uniqueID: ""
+    },
 
 // Starts the server to begin listening
 // =============================================================
