@@ -11,7 +11,7 @@
  
     $.post("/api/reserve", newReservation)
       .then(function(data) {
-        console.log("home.html", data);
+        console.log("reserve.html", data);
         alert("New Reservation Add...");
       });
   });
