@@ -26,12 +26,12 @@ app.get("/", function(req, res) {
 var reservation = [
     {
       routeName: "reserve",
-      name: "Yoda",
+      name: "",
       phone: "",
       email:"",
       uniqueID: ""
     },
-
+]
 // Starts the server to begin listening
 // =============================================================
 app.listen(PORT, function() {

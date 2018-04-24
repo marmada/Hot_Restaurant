@@ -2,10 +2,10 @@
  $("#add-btn").on("click", function(event) {
     event.preventDefault();
     var newReservation = {
-      name: $("#name").val().trim(),
-      email: $("#email").val().trim(),
-      phone: $("#phone").val().trim(),
-      uniqueID: $("#uniqueID").val().trim()
+      name: $("#reserve_name").val().trim(),
+      email: $("#reserve_email").val().trim(),
+      phone: $("#reserve_phone").val().trim(),
+      uniqueID: $("#reserve_uniqueID").val().trim()
     };
 
  
